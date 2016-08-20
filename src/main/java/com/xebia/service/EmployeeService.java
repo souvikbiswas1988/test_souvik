@@ -4,6 +4,6 @@ import com.xebia.domain.Employee;
 
 import java.util.Collection;
 
-interface EmployeeService {
+public interface EmployeeService {
      Collection<Employee> findAll();
 }

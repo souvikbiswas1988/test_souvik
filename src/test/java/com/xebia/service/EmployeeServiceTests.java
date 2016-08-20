@@ -13,7 +13,7 @@ import java.util.Collection;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)
-public class GreetingServiceTests {
+public class EmployeeServiceTests {
 
     @Autowired
     private EmployeeService service;
